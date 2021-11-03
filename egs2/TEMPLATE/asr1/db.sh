@@ -2,6 +2,7 @@
 # "downloads" means the corpus can be downloaded by the recipe automatically
 
 AISHELL=downloads
+ALCAIM=downloads
 AN4=downloads
 DIRHA_ENGLISH_PHDEV=
 DIRHA_WSJ=
@@ -24,6 +25,8 @@ CSJVER=dvd  ## Set your CSJ format (dvd or usb).
             ##            e.g. $ ls $CSJDATATOP(USB) => 00README.txt DOC MORPH ... WAV fileList.csv
             ## Case merl :MERL setup. Neccesary directory is WAV and sdb
 CSMSC=downloads
+SPOLTECH=downloads
+spoltech=downloads
 HKUST1=
 HKUST2=
 LABOROTV=

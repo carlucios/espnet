@@ -5,7 +5,7 @@ set -e
 set -u
 set -o pipefail
 
-lang=it # de, en, es, fr, it, nl, pt, ru
+lang=pt # de, en, es, fr, it, nl, pt, ru
 train_set="tr_${lang}"
 valid_set="dt_${lang}"
 test_sets="dt_${lang} et_${lang}"
